@@ -1,0 +1,21 @@
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+F:\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+F:\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+F:\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\Tugas fahri\semester 4\tugas vb.net 2010\Pertemuan 3\PRAKTEK 3\PRAKTEK 3\PERBAIKANPRATIKUM3\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
